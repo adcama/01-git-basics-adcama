@@ -91,13 +91,6 @@ arreglar-ho.
 
   - En el fitxer `exe1.html`, just a sota de `<h1>Exercici 1</h1>`, inserta el
     fitxer `git.log` entre `<pre>` i `</pre>` amb les següents comandes:
-
-```bash
-    echo '<pre>' >> exe1.html
-    cat git.log >> exe1.html
-    echo '</pre>' >> exe1.html
-```
-
   - Edita el fitxer `exe1.html` i posa a lloc el bloc `<pre>..</pre>`, que ha
     d'anar just abans del tag `</body>`.
   - Fes el commit i el push del fitxer `exe1.html` a la branca `web`.
