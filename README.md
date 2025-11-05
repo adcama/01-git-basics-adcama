@@ -72,14 +72,6 @@ arreglar-ho.
 
   - A la branca `web`, afegeix el fitxer d'estil `style.css` amb el contingut
     següent:
-
-```css
-pre {
-    background-color: #333;
-    color: #373;
-}
-```
-
   - Esborra els codi css d'aquest fitxer, `README.md`, de forma que aquest
     punt estigui a continuació de l'anterior. Fes el commit i el push del
     `README.md` a la branca principal. Missatge: 'README Only'.
